@@ -1,21 +1,36 @@
 {
-    "contacts": [
-{
-    "id": 1,
-    "name": "Frederick",
-    "address": "Bengkong",
-    "email": "frederickfd88@gmail.com",
-    "phone": "082382269138",
-    "company":"fd-technologies"
-},
-{
-    "id": 2,
-    "name": "Vit",
-    "address": "Orchard",
-    "email": "vit228@gmail.com",
-    "phone": "082382930192",
-    "company":"-"
-}
-
-    ]
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Frederick",
+      "address": "Bengkong",
+      "email": "frederickfd88@gmail.com",
+      "phone": "082382269138",
+      "company": "fd-technologies"
+    },
+    {
+      "id": 2,
+      "name": "Vit",
+      "address": "Orchard",
+      "email": "vit228@gmail.com",
+      "phone": "082382930192",
+      "company": "-"
+    },
+    {
+      "name": "andri",
+      "address": "nusa jaya",
+      "email": "jass_derick_alek@yahoo.co.id",
+      "phone": "082137657777",
+      "company": "sdacorp",
+      "id": 3
+    },
+    {
+      "name": "Meliodas",
+      "address": "nusa jaya",
+      "email": "jass_derick_alek@yahoo.co.id",
+      "phone": "082382269138",
+      "company": "Glints",
+      "id": 4
+    }
+  ]
 }
