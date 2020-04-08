@@ -1,0 +1,21 @@
+{
+    "contacts": [
+{
+    "id": 1,
+    "name": "Frederick",
+    "address": "Bengkong",
+    "email": "frederickfd88@gmail.com",
+    "phone": "082382269138",
+    "company":"fd-technologies"
+},
+{
+    "id": 2,
+    "name": "Vit",
+    "address": "Orchard",
+    "email": "vit228@gmail.com",
+    "phone": "082382930192",
+    "company":"-"
+}
+
+    ]
+}
